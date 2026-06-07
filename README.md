@@ -16,6 +16,7 @@ A password strength checker typically examines whether a password contains:
 
 
 **🚀Project Overview**
+
 The Password Strength Checker is a Python-based command-line application designed to evaluate the strength of user passwords based on common security requirements. The system analyzes a password by checking its length, presence of numeric digits, uppercase letters, lowercase letters, and special characters. Based on these criteria, the application categorizes the password as Weak, Medium, or Strong and provides feedback to help users create more secure passwords.
 
 The project demonstrates the use of Python string methods, regular expressions, conditional statements, loops, and functions to implement a practical cybersecurity-related tool. It helps users understand password security standards and encourages the creation of stronger passwords.
