@@ -23,6 +23,7 @@ The project demonstrates the use of Python string methods, regular expressions, 
 
 
 
+
 **✨ Key Features**
 
 • Checks whether the password contains at least 8 characters.
