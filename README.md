@@ -3,11 +3,11 @@ A Password Strength Checker is a tool that evaluates the security level of a pas
 
 A password strength checker typically examines whether a password contains:
 
-A sufficient number of characters
-Uppercase letters (A-Z)
-Lowercase letters (a-z)
-Numbers (0-9)
-Special characters (!, @, #, $, etc.)
+• A sufficient number of characters
+• Uppercase letters (A-Z)
+• Lowercase letters (a-z)
+• Numbers (0-9)
+• Special characters (!, @, #, $, etc.)
 
 
 **🚀Project Overview**
