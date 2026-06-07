@@ -5,13 +5,13 @@ A password strength checker typically examines whether a password contains:
 
   ✔ A sufficient number of characters
 
-• Uppercase letters (A-Z).
+  ✔ Uppercase letters (A-Z).
 
-• Lowercase letters (a-z).
+  ✔ Lowercase letters (a-z).
 
-• Numbers (0-9).
+  ✔ Numbers (0-9).
 
-• Special characters (!, @, #, $, etc.).
+  ✔ Special characters (!, @, #, $, etc.).
 
 
 **🚀Project Overview**
